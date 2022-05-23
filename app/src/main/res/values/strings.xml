@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">iotproject</string>
+    <string-array name="recipe_list">
+        <item>요리01</item>
+        <item>요리02</item>
+        <item>요리03</item>
+        <item>요리04</item>
+    </string-array>
+
+    <string-array name="recipe_order_list">
+        <item>레시피01</item>
+        <item>레시피02</item>
+        <item>레시피03</item>
+        <item>레시피04</item>
+    </string-array>
+
+    <string-array name="ingredient_list">
+        <item>재료01</item>
+        <item>재료02</item>
+        <item>재료03</item>
+        <item>재료04</item>
+    </string-array>
+</resources>
